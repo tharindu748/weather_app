@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">weatherApp</string>
+    <string name="psg">0%</string>
+    <string name="celsius">0°C</string>
+    <string name="lad_lod">Latitude,Longitude</string>
+    <string name="time">TIME :</string>
+    <string name="want_to_search_for_new_city">Want To Search For New City</string>
+</resources>
